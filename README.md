@@ -1,5 +1,6 @@
 # Sorting-Visualizer
 
+#HTML CSS JavaScript
 Insertion Sort,
 Selection Sort,
 Bubble Sort, 
